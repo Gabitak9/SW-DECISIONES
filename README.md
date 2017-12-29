@@ -1,9 +1,20 @@
-# SOFTWARRIOR - SW DECISIONES
+**[TAREA RAMO UNIVERSIDAD]**
 
-### Readme
-Acá se podrá encontrar la documentación necesaria para entender el código del proyecto.
+TAREA / ANÁLISIS Y DISEÑO DE SOFTWARE / 2017-2
+========================================
 
-### Estructura del Proyecto
+INTEGRANTES
+-------------
+- **Gabriela Sepúlveda Bravo**
+- **Paul Rojas**
+- **Beatriz Segura**
+
+SW-DECISIONES
+-------------
+Softwarrior Decisiones es una aplicación web que permite a los usuarios poder resolver distintas situaciones mediante tarjetas de 'Decisiones'. Para ellos los usuarios pueden crear sesiones y distintos escenarios, donde podrán chatear con los usuarios mientras estos votan la mejor forma de decidir sobre algo.
+
+ESTRUCTURA DEL PROYECTO
+-------------
 ```
 |
 |-- /bower_components
