@@ -24,7 +24,7 @@
     "method-override": "^2.3.10",
     "momentjs": "^2.0.0",
     "mustache": "^2.3.0",
-    "mysql": "^2.13.0",
+    "mysql": "^2.18.1",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "pug": "^3.0.1",
