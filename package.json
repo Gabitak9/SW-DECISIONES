@@ -9,7 +9,7 @@
   "author": "Softwarrior",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.5.8",
+    "angular": "^1.8.0",
     "angular-timer": "^1.3.5",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.16.0",
