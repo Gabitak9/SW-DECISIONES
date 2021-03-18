@@ -27,7 +27,7 @@
     "mysql": "^2.13.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
-    "pug": "^2.0.0-rc.4",
+    "pug": "^3.0.1",
     "semantic-ui": "^2.2.13",
     "sequelize": "^3.30.1"
   }
